@@ -1,10 +1,6 @@
 Welcome to your new dbt project!
 
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
+Here you can: add your own data, use BigQuery as a data warehouse, and use dbt Cloud as a data transforming tool.
 
 
 ### Resources:
